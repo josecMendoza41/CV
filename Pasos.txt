@@ -1,0 +1,19 @@
+git init -> para inicializar git
+git status ->para ver que archivos an sido subidos
+git add -> para agregar archivos utilizando ""
+git add -A -> se agrega todo
+git commit ->  te manda a vin
+git commit -m "nombre del commit" -> entonces me evito entrar al vin 
+
+abre el editor vin donde tengo que poner i para ingresar un comentario y luego pongo escape y escribo ":wq"
+git commit -m "nombre del commit" -> entonces me evito entrar al vin 
+
+git log -> entendi que es para ver tu commit o primera version y me da el identificador de mi version
+
+git checkout -- "nombre del archivo"  -> si hice algo que no queria y quiero descartar cambio estos los vuelve a lo de antes
+
+git diff nombre -> me muestra los cambios que hice anteriormente
+
+git remote add origin linkkkkkkkkkkkkk....  -> direccion del github
+git push -u origin -> para logearme
+
