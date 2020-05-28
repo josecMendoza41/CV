@@ -16,4 +16,5 @@ git diff nombre -> me muestra los cambios que hice anteriormente
 
 git remote add origin linkkkkkkkkkkkkk....  -> direccion del github
 git push -u origin -> para logearme
+link : https://www.youtube.com/watch?v=HiXLkL42tMU
 
