@@ -1,5 +1,5 @@
 # CURRICULUM VITAE
 
-My CV is built using a [free template](http://www.latextemplates.com/) in [LaTeX](https://www.latex-project.org/).
+Mi Curriculum Vitae ha sido elaborado a partir de una plantilla gratuita de [free template](http://www.latextemplates.com/) desarrollada con [LaTeX](https://www.latex-project.org/).
 
-To see my CV just click on the *.pdf file
+Para poder Observar mi Curriculum Vitae haga click [Aqui](../CV/CurriculumVitae.pdf)
