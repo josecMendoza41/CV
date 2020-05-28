@@ -21,3 +21,7 @@ link : https://www.youtube.com/watch?v=HiXLkL42tMU
 git remote -v -> vez con que archivo remoto se esta trabajando
 
 Markdown para el Readme -> https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links
+
+git push origin --delete nombre -> para borrar un archivo de nuestro repositorio rmeoto
+git pull ->para traer los archivos editado en el github a nuestro repositorio local
+
