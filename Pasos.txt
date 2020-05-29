@@ -32,3 +32,4 @@ link Marckdown ->  https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsh
 
 git push origin --delete nombre -> para borrar un archivo de nuestro repositorio rmeoto
 git pull ->para traer los archivos editado en el github a nuestro repositorio local
+git push origin master -> subir todo
